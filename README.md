@@ -1,2 +1,2 @@
 # hello-github
-GitHub Test Repository!
+GitHub Test Repository
